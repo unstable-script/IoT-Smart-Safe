@@ -1,3 +1,4 @@
 -> To run the files, add them to seperate folders to create new projects in Arduino IDE.
 -> Run 'Arduino_MEGA.ino' into the Arduino MEGA board, you can now remove it from your computer and run a power supply through the MEGA.
 -> Run 'esp32_pir.ino' into the T-Beam, you can now remove it from your computer and run a power supply through it.
+-> The password and wifi name must be changed to your own from the 'esp32_pir.ino' file.
